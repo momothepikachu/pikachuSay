@@ -1,10 +1,13 @@
 {
   "name": "pikachusay",
   "version": "1.0.0",
-  "description": "A configurable talking pikachu.",
+  "description": "A configurable talking pikachu in the terminal.",
   "main": "pikachusay.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
+  },
+  "bin": {
+    "pikachusay": "pikachusay.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +17,11 @@
     "pikachu",
     "pokemon"
   ],
-  "author": "momo rao",
+  "author": {
+    "name": "momo rao",
+    "email": "monicaxrao@gmail.com",
+    "url": "https://github.com/momothepikachu"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/momothepikachu/pikachuSay/issues"
