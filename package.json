@@ -1,6 +1,6 @@
 {
   "name": "pikachusay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A configurable talking pikachu in the terminal.",
   "main": "pikachusay.js",
   "scripts": {
