@@ -23,6 +23,7 @@
     "url": "https://github.com/momothepikachu"
   },
   "license": "ISC",
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/momothepikachu/pikachuSay/issues"
   },
